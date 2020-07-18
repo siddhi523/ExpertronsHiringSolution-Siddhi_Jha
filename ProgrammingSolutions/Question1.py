@@ -12,7 +12,7 @@ def valid(n):
 
 n = input() #take input from user
 
-#check for validity
+#check for validity of mobile number
 if(valid(n)):
     print("VALID")
 else:
